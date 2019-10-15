@@ -1,1 +1,2 @@
-
+通过串口读取px4中的姿态数据，实时控制3D模型的位姿
+linux opengl mavlink
